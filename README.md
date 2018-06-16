@@ -1,8 +1,7 @@
 # React-Modal
 A simple modal for React
 
-##Simple usage with default styles
-
+## Simple usage with default styles
 `closeText` and `close`-callback is required
 
 ```
@@ -14,8 +13,7 @@ A simple modal for React
 ```
 
 
-##Override default styles
-
+## Override default styles
 You can override the default styles by passing following props
 - backgroundStyle
 - containerStyle
